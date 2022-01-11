@@ -36,7 +36,7 @@
 
 ## Overview
 
-![](https://github.com/pyogi27/pyogi27.github.io/blob/main/My Team Page/resource/Screensho.png)
+![](https://github.com/pyogi27/pyogi27.github.io/devChallenges-My-Team-Page/resource/Screenshot.png)
 
 ### Built With
 
